@@ -22,7 +22,7 @@ run;
 
 ## Deploy the HTML/JS/JSON
 
-Copy the files to a location on your webserver. In this example I'll be using my (mortie23.github.io/)[https://mortie23.github.io/]
+Copy the files to a location on your webserver. In this example I'll be using my [mortie23.github.io/](https://mortie23.github.io/)
 
 ## Test the WDC
 
